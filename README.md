@@ -1,5 +1,3 @@
-Here’s a detailed and polished `README.md` file tailored for your GitHub repository:
-
 ---
 
 # **deep-learning-cv-model-comparison-detection-segmentation**
